@@ -1,0 +1,39 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+
+
+#bloc{
+    width: 100%;
+    height: 1000px;
+    
+    background-repeat: no-repeat;
+    background-image: url("https://cdn2.unrealengine.com/fortnite-iron-man-zero-items-1920x1080-1f760f6e014f.jpg");
+    
+    
+}
+
+
+#bloc1{
+    justify-content: center;
+    width: 100%;
+    height: 50px;
+    display: flex;
+    background: rgb(0,0,0);
+    background: radial-gradient(circle, rgba(0,0,0,1) 0%, rgba(26,76,199,1) 89%);
+}
+
+
+
+#bloc1 a{
+    text-decoration: none;
+    color: whitesmoke;
+    margin-left: 70px;
+    margin-top: 15px;
+}
+
+
+
+
